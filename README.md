@@ -5,7 +5,7 @@ Cara menggunakan:
 1. Clone Repositori
    git clone https://github.com/SahrulRamadhanHardiansyah/Aplikasi-List-Bilangan-Ganjil-Genap-
 
-2. Buka ProyeK
+2. Buka Proyek
    Buka file menggunakan Visual Studio atau editor kode C# lainnya.
 
 3. Jalankan
