@@ -1,0 +1,7 @@
+C:\Users\Sahrul\source\repos\AplikasiListBilanganGanjilGenap\AplikasiListBilanganGanjilGenap\bin\Debug\AplikasiListBilanganGanjilGenap.exe.config
+C:\Users\Sahrul\source\repos\AplikasiListBilanganGanjilGenap\AplikasiListBilanganGanjilGenap\bin\Debug\AplikasiListBilanganGanjilGenap.exe
+C:\Users\Sahrul\source\repos\AplikasiListBilanganGanjilGenap\AplikasiListBilanganGanjilGenap\bin\Debug\AplikasiListBilanganGanjilGenap.pdb
+C:\Users\Sahrul\source\repos\AplikasiListBilanganGanjilGenap\AplikasiListBilanganGanjilGenap\obj\Debug\AplikasiListBilanganGanjilGenap.csproj.AssemblyReference.cache
+C:\Users\Sahrul\source\repos\AplikasiListBilanganGanjilGenap\AplikasiListBilanganGanjilGenap\obj\Debug\AplikasiListBilanganGanjilGenap.csproj.CoreCompileInputs.cache
+C:\Users\Sahrul\source\repos\AplikasiListBilanganGanjilGenap\AplikasiListBilanganGanjilGenap\obj\Debug\AplikasiListBilanganGanjilGenap.exe
+C:\Users\Sahrul\source\repos\AplikasiListBilanganGanjilGenap\AplikasiListBilanganGanjilGenap\obj\Debug\AplikasiListBilanganGanjilGenap.pdb
